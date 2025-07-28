@@ -14,7 +14,7 @@ monthly_challenges = {
     "september": "Write a journal entry every day!",
     "october": "Try a new hobby for at least 20 minutes every day!",
     "november": "Practice gratitude by writing down 3 things you're thankful for every day!",
-    "december": "Reflect on the year and set goals for the next year!"
+    "december": None
 }
 
 # Create your views here.
